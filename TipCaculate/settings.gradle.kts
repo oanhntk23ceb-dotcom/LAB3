@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Dice Roller"
+rootProject.name = "Tip Caculate"
 include(":app")
-include(":app:tipcaculate")
