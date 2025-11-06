@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">LAB8</string>
-    <string name="title_activity_sign_in_screen">SignInScreen</string>
-    <string name="title_activity_sign_up_screen">SignUpScreen</string>
-    <string name="title_activity_home_screen">HomeScreen</string>
-</resources>
