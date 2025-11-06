@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">CrudDatabase</string>
-    <string name="title_activity_course_details">CourseDetailsActivity</string>
-    <string name="title_activity_update_course">UpdateCourse</string>
-</resources>
